@@ -1,0 +1,38 @@
+/*  start General editign */
+body {
+    background-color: #3498db;
+}
+/* End general editing */
+/* start editing the form */
+form{
+    width: 525px;
+    height: 300px;
+    margin:70px auto;
+    padding: 40px 20px;
+    border: 1px solid gray;
+    border-radius: 20px;
+    background-color: #fcfcfc;;
+    box-shadow: 1px 0px 20px #5a6062;
+}
+
+form .input-field{
+    width: 400px;
+    margin: auto;
+}
+form .range-field{
+    margin-top: 46px;
+    width: 355px;
+}
+form .sub-btn{
+    margin-left: 163px;
+    margin-top: 51px;
+}
+/* End editing the form */
+/* start homepage file */
+.hi {
+    font-size: 60px;
+    width: 200px;
+    margin: 20px auto;
+    text-align: center;
+}
+/*/ End homepage file */
