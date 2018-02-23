@@ -9,7 +9,7 @@
 
 ?>
 
-<form method="post" action="homepage.php">
+<form method="post" action="question.php">
     <div class="input-field col s6">
         <i class="fas fa-user-circle material-icons prefix"></i>
         <input id="name" type="text" class="validate" data-length="10" name="name">
